@@ -24,9 +24,7 @@
 * s24025
 * s24001
 * s24017
-* s24020
-- **おすすめアニメ**:『炎炎ノ消防隊』 
-- **公式サイト**: [https://fireforce-anime.jp/](https://fireforce-anime.jp/)
+* s24020 [『炎炎ノ消防隊](https://fireforce-anime.jp/)
 * s24006
 * s24022
 * s24027
